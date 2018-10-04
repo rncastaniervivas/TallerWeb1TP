@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Saludar pasando parametros por GET</title>
+<title>Operaciones</title>
 </head>
 <body>
-<h2>Los datos del usuario son:</h2>
-<h2>email: ${usuario.email}</h2>
-<h2>password: ${usuario.password}</h2>
-
+	<h2>El resultado de ${op} a ${cad} es ${result}</h2>
 </body>
 </html>
